@@ -1,6 +1,6 @@
 # Hey, I'm Eduardo 👋
 
-Estudante de programação, aprendendo na prática — uma linha de código por vez.
+Programming student, learning by doing — one line of code at a time.
 
 ---
 
